@@ -1,0 +1,4 @@
+v 1
+d ttable2 Author: Xuan Zhang & Chuntao Li
+
+p TTABLE2: Stata module to produce Mean Comparison for many variables between two groups with formatted table output.
